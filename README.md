@@ -22,7 +22,7 @@ Penjelasan :
       makx = a
 
   ```
-     <p> 3. jika (if) bilangan b lebih besar dari bilangan a maka bilangan b lebih besar </p>
+     3. jika (if) bilangan b lebih besar dari bilangan a maka bilangan b lebih besar 
 
   ```bash
   else:
